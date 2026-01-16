@@ -43,7 +43,7 @@ const Header = () => {
       </Link>
 
       {/* RIGHT — Order Online */}
-      <Link href="https://outlet.aromachai.in/shop" className="flex flex-col items-center gap-1">
+      <Link href="https://aromachai.in/franchise" className="flex flex-col items-center gap-1">
         <ShoppingBag
           className={`size-5 text-green-700`}
         />
