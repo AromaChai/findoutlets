@@ -14,7 +14,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai– Sanpada",
     area: "Sector 1, Sanpada",
     city: "Navi Mumbai – 400705",
-    time: "8:00 AM - 11:00 PM",
+    time: "10:00 AM - 11:00 PM",
     phone: 8169508030,
     map : "https://maps.app.goo.gl/PaaqbfXuXrEdf2iMA"
 
@@ -24,7 +24,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai – Juinagar",
     area: "Sector 23, Juinagar",
     city: "Navi Mumbai – 400706",
-    time: "8:00 AM - 11:00 PM",
+    time: "7:30 AM - 11:00 PM",
     phone: 7304867253,
     map : "https://maps.app.goo.gl/QgmDxgv7Fc1TnSH5A"
   },
@@ -33,7 +33,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai – Nerul",
     area: "Sector 1, Shiravane, Nerul",
     city: "Navi Mumbai – 400706",
-    time: "7:00 AM - 11:00 PM",
+    time: "8:00 AM - 11:00 PM",
     phone: 9702738068,
     map : "https://maps.app.goo.gl/b8VuEwnkpMQG8kqW9"
   },
@@ -42,7 +42,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai – Seawood ",
     area: "Sector 40, Seawoods West Kendriya Vihar Nerul",
     city: "Navi Mumbai – 400706",
-    time: "9:00 AM - 5:00 PM",
+    time: "9:00 AM - 11:45 PM",
     phone: 8850705132,
     map : "https://maps.app.goo.gl/PtDHvgCk7giqqfD76"
   },
@@ -51,7 +51,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai – Kopar Khairane",
     area: "Sector 4A, Kopar Khairane",
     city: "Navi Mumbai – 400709",
-    time: "8:00 AM - 10:00 PM",
+    time: "8:30 AM - 11:45 PM",
     phone: 9082732035,
     map : "https://maps.app.goo.gl/Ndf9vGyBYn2W217c6"
   },
@@ -69,7 +69,7 @@ export const aromaChaiOutlets: Outlet[] = [
     name: "Aroma Chai – Ulwe",
     area: "Sector 5, Ulwe",
     city: "Navi Mumbai – 410206",
-    time: "10:00 AM - 10:00 PM",
+    time: "8:30 AM - 10:00 PM",
     phone: 9920572756,
     map : "https://maps.app.goo.gl/WzSHfCaP2uCgf6548"
   },

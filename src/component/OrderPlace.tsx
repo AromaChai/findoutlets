@@ -55,7 +55,7 @@ export default function OrderPlatforms() {
             variants={item}
             whileTap={{ scale: 0.97 }}
             whileHover={{ scale: 1.01 }}
-            href="#"
+            href="https://sds.swig.gy/2evnYhvcM2D"
             className="flex w-full items-center gap-4 rounded-lg bg-[#FC8019] px-5 py-4 text-white shadow-md"
           >
             <SiSwiggy className="size-6" />
@@ -69,7 +69,7 @@ export default function OrderPlatforms() {
             variants={item}
             whileTap={{ scale: 0.97 }}
             whileHover={{ scale: 1.01 }}
-            href="#"
+            href="https://link.zomato.com/xqzv/rshare?id=4763309930563753"
             className="flex w-full items-center gap-4 rounded-lg bg-[#E23744] px-5 py-4 text-white shadow-md"
           >
             <SiZomato className="size-6" />
