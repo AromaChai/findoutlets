@@ -167,7 +167,7 @@ export default function Home() {
                       window.open(`tel:${outlet.phone}`, "_self")
                     }
                     className={`h-9 w-9 flex items-center justify-center
-                      bg-[#1f7a30] text-white
+                      bg-[#016313] text-white
                       ${open ? "bg-[#2f9a3f]" : "bg-gray-400 pointer-events-none"}
                       `}
                   >
