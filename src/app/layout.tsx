@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Find AromaChai Outlets",
-  description: "Find AromaChai Outlets",
+  title: " Find Aroma Chai Outlets | Buy Chai Premix & Order Onlin",
+  description: "Find all Aroma Chai outlets with address, call button and directions. Buy instant chai premix, visit the café, or order online from your nearest outlet.",
 };
 
 export default function RootLayout({
