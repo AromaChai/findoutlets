@@ -100,4 +100,14 @@ export const aromaChaiOutlets: Outlet[] = [
     phone: 8770012534,
     map : "https://maps.app.goo.gl/mK1so8esNBeEViYF7"
   },
+  {
+    code: "NAG",
+    name: "Aroma Chai – Nagpur",
+    area: "Ganpati Nagar, Zingabai Takli",
+    city: "Nagpur – 440030",
+    time: "6:00 AM - 11:00 PM",
+    phone: 9420805996,
+    map : "https://maps.app.goo.gl/iaxkTXVfCxRH3dtJ7?g_st=aw"
+  },
 ];
+
