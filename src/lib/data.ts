@@ -10,16 +10,6 @@ export type Outlet = {
 
 export const aromaChaiOutlets: Outlet[] = [
   {
-    code: "SAN",
-    name: "Aroma Chai– Sanpada",
-    area: "Sector 1, Sanpada",
-    city: "Navi Mumbai – 400705",
-    time: "10:00 AM - 11:00 PM",
-    phone: 8169508030,
-    map : "https://maps.app.goo.gl/PaaqbfXuXrEdf2iMA"
-
-  },
-  {
     code: "JUI",
     name: "Aroma Chai – Juinagar",
     area: "Sector 23, Juinagar",
