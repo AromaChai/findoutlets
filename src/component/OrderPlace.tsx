@@ -2,6 +2,7 @@
 
 import { motion  , Easing } from "framer-motion";
 import { SiSwiggy, SiZomato } from "react-icons/si";
+import { track } from "@/lib/track";
 
 const container = {
   hidden: { opacity: 0 },
@@ -56,6 +57,7 @@ export default function OrderPlatforms() {
             whileTap={{ scale: 0.97 }}
             whileHover={{ scale: 1.01 }}
             href="https://sds.swig.gy/2evnYhvcM2D"
+            onClick={() => track("order_click", { platform: "swiggy", source: "order_page" })}
             className="flex w-full items-center gap-4 rounded-lg bg-[#FC8019] px-5 py-4 text-white shadow-md"
           >
             <SiSwiggy className="size-6" />
@@ -70,6 +72,7 @@ export default function OrderPlatforms() {
             whileTap={{ scale: 0.97 }}
             whileHover={{ scale: 1.01 }}
             href="https://link.zomato.com/xqzv/rshare?id=4763309930563753"
+            onClick={() => track("order_click", { platform: "zomato", source: "order_page" })}
             className="flex w-full items-center gap-4 rounded-lg bg-[#E23744] px-5 py-4 text-white shadow-md"
           >
             <SiZomato className="size-6" />
