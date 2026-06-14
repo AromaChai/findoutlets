@@ -658,9 +658,17 @@ export default function OutletDetail({
               <MapPin className="h-4 w-4 mt-0.5 shrink-0 text-[#2f9a3f]" />
               <div>
                 <p className="text-[13px] font-semibold text-[#0e3a1b]">Address</p>
-                <p className="text-xs text-[#53735b]">
+                <a
+                  href={outlet.map}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() =>
+                    track("directions_click", { ...ctx, source: "address" })
+                  }
+                  className="text-xs text-[#2f9a3f] underline underline-offset-2"
+                >
                   {outlet.area}, {outlet.city}
-                </p>
+                </a>
               </div>
             </div>
 
